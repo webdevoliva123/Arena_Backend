@@ -4,8 +4,8 @@
   "description": "Oliva Trend's Fashion ecommerce website",
   "main": "index.js",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "Abhishek Yadav",
   "license": "ISC",
